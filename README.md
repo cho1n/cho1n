@@ -1,4 +1,4 @@
-### Hi there 👋
+### 애매하면 모르는 거다.
 
 <!--
 **cho1n/cho1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
