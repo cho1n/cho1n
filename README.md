@@ -1,1 +1,3 @@
-# 애매하면 모르는 거다.
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{cho1n}?pet-id=1" width="1000" height="120"/>
+</a>
